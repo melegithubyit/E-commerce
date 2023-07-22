@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/E-commerce/static/css/main.69143643.css",
+    "main.js": "/E-commerce/static/js/main.9a507b1f.js",
+    "static/js/787.a52f30f9.chunk.js": "/E-commerce/static/js/787.a52f30f9.chunk.js",
+    "static/media/samsung.png": "/E-commerce/static/media/samsung.36ee69d10e693c8a2b87.png",
+    "static/media/jacket.png": "/E-commerce/static/media/jacket.3433df6d9669c13db5bb.png",
+    "static/media/radio.png": "/E-commerce/static/media/radio.23d542c3f2f5a25e52b6.png",
+    "static/media/laptop.png": "/E-commerce/static/media/laptop.d32fa9d3b7ff2be0aa0e.png",
+    "static/media/socks.png": "/E-commerce/static/media/socks.2d0b073fcce5d2d0403e.png",
+    "static/media/iphone.png": "/E-commerce/static/media/iphone.d6492bcadff66b60bc00.png",
+    "static/media/sportshirt.png": "/E-commerce/static/media/sportshirt.051731ee3a06bd5021c1.png",
+    "static/media/tablet.png": "/E-commerce/static/media/tablet.68e335c84045c55f824e.png",
+    "static/media/skateboard.png": "/E-commerce/static/media/skateboard.bd20eaa070907dc6a398.png",
+    "static/media/runningshoe.png": "/E-commerce/static/media/runningshoe.a579f3cc6a76ebe9ff1b.png",
+    "static/media/bicycle.png": "/E-commerce/static/media/bicycle.119a743869448a136a49.png",
+    "static/media/bag.png": "/E-commerce/static/media/bag.748e3728c6475f6b1461.png",
+    "static/media/tv.png": "/E-commerce/static/media/tv.641c0fe7808a10fc80cc.png",
+    "static/media/jordan.png": "/E-commerce/static/media/jordan.78db37fd64c19c4bed0d.png",
+    "static/media/eyeGlass.png": "/E-commerce/static/media/eyeGlass.87175bea75eed617ce48.png",
+    "index.html": "/E-commerce/index.html",
+    "main.69143643.css.map": "/E-commerce/static/css/main.69143643.css.map",
+    "main.9a507b1f.js.map": "/E-commerce/static/js/main.9a507b1f.js.map",
+    "787.a52f30f9.chunk.js.map": "/E-commerce/static/js/787.a52f30f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69143643.css",
+    "static/js/main.9a507b1f.js"
+  ]
+}
